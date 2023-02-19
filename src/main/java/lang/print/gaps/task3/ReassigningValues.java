@@ -5,14 +5,14 @@ public class ReassigningValues {
         int first = 1;
         int second = 10;
         int third = 100;
-        System.out.printn(first);
-        System.out.printn(second);
-        System.out.printn(third);
-        int first = 15;
-        int second = 6;
-        int third = 4;
-        System.out.printn(first);
-        System.out.printn(second);
-        System.out.printn(third);
+        System.out.println(first);
+        System.out.println(second);
+        System.out.println(third);
+        first = 15;
+        second = 6;
+        third = 4;
+        System.out.println(first);
+        System.out.println(second);
+        System.out.println(third);
     }
 }
